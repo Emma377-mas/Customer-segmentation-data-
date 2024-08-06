@@ -28,7 +28,7 @@ The primary dataset  used for this analysis is the "Customer data csv file " con
     - Develop targetd strategies for different customer segments
     - Design loyalty programs based on customer spending behavior and preferences
       ### Data analysis
-      SQL
+      ```sql
       SELECT  customer_id ,age,gender,income,
       spending_score,membership_years,purchse_frequency,
       preferred_category
@@ -38,6 +38,7 @@ The primary dataset  used for this analysis is the "Customer data csv file " con
       ELSE Senior
       End as age_group
       from customers ;
+      ```
       ### Results findings
       1 A balanced distribution among middle and senior segments but a younger customers
       2 An observable trend where higher income levels correlate with higher average spending scores
