@@ -7,4 +7,11 @@ The primary dataset  used for this analysis is the "Customer data csv file " con
 ### Tools 
 - Excel( data cleaning)
 - SQL ( data analysis )
-- Power bi (creating report ) 
+- Power bi (creating report )
+  ### Data cleaning and preparation
+  In the initial data preparation we performed the following tasks:
+  - Data loading and inspection
+  - Data cleaning and formatting
+    
+
+
