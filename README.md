@@ -27,7 +27,21 @@ The primary dataset  used for this analysis is the "Customer data csv file " con
       WHEN age between 36 and 55 Then ' middle aged '
       ELSE Senior
       End as age_group
-      from customers ; 
+      from customers ;
+      ### Results findings
+      1 A balanced distribution among middle and senior segments but a younger customers
+      2 An observable trend where higher income levels correlate with higher average spending scores
+      3 Sports is most preferred product category.Groceries,home,garden and electronics have significant shares ,indicating diverse
+      customer interest
+      4 Customers with longer membership ttend to have higher total purchase amount
+      ### Recommendations
+      Based on the analysis , l recommend the following actions
+      - Targeted marketing straegies can be employed considering these outcomes distribution within age groups
+      - Data indicates that customers who spend more frequently fall into high spending score hence highlighting the impotance
+        of maintaining high engagement levels wih top spenders
+      _ Clothing has he smallest share which could be explored for pontential growth opportunities
+ 
+      
 
   
     
